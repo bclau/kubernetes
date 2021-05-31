@@ -51,7 +51,7 @@ import (
 func main() {
 	rootCmd := &cobra.Command{
 		Use:     "app",
-		Version: "2.32",
+		Version: "2.33",
 	}
 
 	rootCmd.AddCommand(auditproxy.CmdAuditProxy)

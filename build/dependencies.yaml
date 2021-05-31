@@ -18,7 +18,7 @@ dependencies:
 
   # agnhost: bump this one first
   - name: "agnhost"
-    version: "2.32"
+    version: "2.33"
     refPaths:
     - path: test/images/agnhost/VERSION
       match: \d.\d
